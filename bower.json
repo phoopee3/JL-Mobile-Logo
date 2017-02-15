@@ -1,0 +1,14 @@
+{
+  "name": "jl-mobile-logo",
+  "authors": [
+    "Jason Lawton <lawton.jason@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "wp-media-picker": "^0.5.1"
+  }
+}

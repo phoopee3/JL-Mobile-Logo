@@ -1,0 +1,47 @@
+{
+  "name": "wp-media-picker",
+  "version": "0.5.1",
+  "description": "This jQuery plugin for WordPress can be used to transform an input field into a flexible and compatible media field with attachment selection and preview.",
+  "main": [
+    "wp-media-picker.min.js",
+    "wp-media-picker.min.css"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "wordpress",
+    "media",
+    "attachment",
+    "admin",
+    "ui",
+    "jQuery",
+    "plugin"
+  ],
+  "homepage": "https://github.com/felixarntz/wp-media-picker/",
+  "authors": [
+    {
+      "name": "Felix Arntz",
+      "email": "felix-arntz@leaves-and-love.net",
+      "homepage": "https://leaves-and-love.net"
+    }
+  ],
+  "license": "GPL-2.0",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "**/.*",
+    "test",
+    "tests"
+  ],
+  "_release": "0.5.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.5.1",
+    "commit": "ff78ce5b302d8425af90dc62019db2236bc22496"
+  },
+  "_source": "https://github.com/felixarntz/wp-media-picker.git",
+  "_target": "^0.5.1",
+  "_originalSource": "wp-media-picker",
+  "_direct": true
+}
